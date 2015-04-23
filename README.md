@@ -1,9 +1,9 @@
 # Free and Enjoy!
 
-   * [Edit Online](#Editor Online)
-   * [Bootstrap](#Bootstrap)
-   * [Design](#Design)
-   * [Fonts](#Fonts)
+   * [Edit Online](#editor-online)
+   * [Bootstrap](#bootstrap)
+   * [Design](#design)
+   * [Fonts](#fonts)
 
 ## Edit Online
 
